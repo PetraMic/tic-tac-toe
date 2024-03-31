@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class TicTicToe {
+public class TicTacToe {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Player 1, enter your name, please: ");
